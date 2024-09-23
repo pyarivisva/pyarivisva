@@ -12,6 +12,11 @@ I'm an undergraduate student majoring in Information Technology at Udayana Unive
 [![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/pyaripujita/)
 [![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:pyaripujita1234@gmail.com)
 
+## :books: I'm currently learning
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,laravel,tensorflow,mysql,mongodb,arduino,unity,blender)](https://skillicons.dev)
+
+## <img src="https://github.com/user-attachments/assets/eb7d0bd5-5264-42ea-ba9d-9beb55545806" width="30" /> Github Statistics
 <table>
  <tr>
     <th valign="top" >  
