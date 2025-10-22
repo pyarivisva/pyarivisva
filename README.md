@@ -14,7 +14,7 @@ I'm an undergraduate student majoring in Information Technology at Udayana Unive
 
 ## <img src="https://github.com/user-attachments/assets/a768d685-31c6-48b6-8952-3a2dd893492d" width="30" /> I'm currently learning
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,laravel,tensorflow,mysql,mongodb,arduino,unity,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,golang,laravel,react,javascript,mysql,mongodb,arduino)](https://skillicons.dev)
 
 ## <img src="https://github.com/user-attachments/assets/eb7d0bd5-5264-42ea-ba9d-9beb55545806" width="30" /> Github Statistics
 <table>
