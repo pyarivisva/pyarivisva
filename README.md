@@ -11,7 +11,6 @@ I'm an undergraduate student majoring in Information Technology at Udayana Unive
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](http://www.linkedin.com/in/PyariVisvapujitaDeviDasi)
 [![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/pyaripujita/)
 [![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:pyarivisva@gmail.com)
-[![My Skills](https://skillicons.dev/icons?i=behance&theme=light)](https://www.behance.net/pyarivisva)
 
 ## <img src="https://github.com/user-attachments/assets/a768d685-31c6-48b6-8952-3a2dd893492d" width="30" /> I'm currently learning
 
