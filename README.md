@@ -5,8 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=pyarivisva&color=00a0a0&style=plastic)
 
 ## <img src="https://github.com/user-attachments/assets/8cdd214c-2b09-4714-866f-76febb27bb9b" width="45" /> About me
-I'm an undergraduate student majoring in Information Technology at Udayana University with hands-on experience in database management, especially MySQL, Object-Oriented Programming (OOP) using Java and experienced in developing Internet of Things (IoT) projects.
-
+I am an undergraduate Information Technology student at Udayana University, passionate about designing user-centered experiences and building scalable web applications using modern technologies.
 ## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Connect with me
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](http://www.linkedin.com/in/PyariVisvapujitaDeviDasi)
 [![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/pyaripujita/)
